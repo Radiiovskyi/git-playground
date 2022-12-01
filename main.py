@@ -3,9 +3,9 @@ import random
 
 
 def congratulate_user(guesses):
-    print("=============================")
+    print("-----------------------------")
     print("= Congratulations! You won! =")
-    print("=============================")
+    print("-----------------------------")
 
     print(f"Congratulations, you won! your words: {guesses}")
 
